@@ -1,7 +1,8 @@
 .fancyWords{
     color : #0fabe2; 
     font-style: italic; 
+}
+
+body{
     background-image: url("picture.JPG");
-
-
 }
