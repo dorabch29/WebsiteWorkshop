@@ -1,6 +1,8 @@
 .fancyWords{
     color : #0fabe2; 
     font-style: italic; 
+    position : sticky; 
+    text-shadow: aliceblue;
 }
 
 body{
